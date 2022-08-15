@@ -67,3 +67,12 @@ LOL\88\top1
 
 ## 超链接
 [bilibili弹幕网](https://www.bilibili.com"点击进入网站")
+
+```c
+#include <iostream>
+using namespace std;
+int main(){
+	return 0;
+}
+
+
